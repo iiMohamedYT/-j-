@@ -1,6 +1,6 @@
-﻿token= NjA0OTU2MTMyOTIyMDk3Njk0.XT52tA.GZ8tosPpPGfKDpAX9P86jvLbatI
+token= NTg5NDEwNTIxMjkyNDcyMzcy.XT6nTQ.SoXJJ3bi3K_DFjdU45f-Y7HTdG4
 owner= 566173760160268288
-prefix= Rem
+prefix= Ch
 game= Fahed
 stayinchannel=true
 songinstatus=false
