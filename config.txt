@@ -1,0 +1,6 @@
+﻿token= NjA0OTU2MTMyOTIyMDk3Njk0.XT52tA.GZ8tosPpPGfKDpAX9P86jvLbatI
+owner= 566173760160268288
+prefix= Rem
+game= Fahed
+stayinchannel=true
+songinstatus=false
