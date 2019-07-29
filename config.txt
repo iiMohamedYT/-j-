@@ -1,4 +1,4 @@
-token= NTg5NDEwNTIxMjkyNDcyMzcy.XT6nTQ.SoXJJ3bi3K_DFjdU45f-Y7HTdG4
+token= NTg5NDEwNTIxMjkyNDcyMzcy.XT6p5A.FplF8tpPlOGwAtaIpxTAdj6luvM
 owner= 566173760160268288
 prefix= Ch
 game= Fahed
